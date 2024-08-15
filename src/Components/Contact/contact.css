@@ -1,0 +1,43 @@
+.contact_content{
+    border: 0.5px solid red;
+    padding: 50px 30px;
+    margin: 40px 0px;
+    box-shadow:8px 8px 8px 11px #EAEAEA;
+    border: none;
+    
+}
+.contact3{
+    border-left: 1px solid gray;
+    padding: 0px 10px;
+}
+ .contact1 input{
+padding: 8px 60px;
+margin: 4px 0px;
+}
+.contact2 input{
+    padding: 8px 6
+    
+    0px;
+    margin: 4px 0px;
+    }
+    .contact_left{
+      margin: 0px  80px;
+        
+    }
+    .contact_left input{
+        width: 100%;
+        height: 30px;
+        margin: 5px 0px;
+        padding: 0px 20px;
+        background-color: #EDF3F5;
+    }
+    .contact_titles{
+        width: 100%;
+        height: 500px;
+    background-color:#EDF3F5;
+    }
+    .contact_left hr{
+        margin: 5px 0px ;
+        height: 3px;
+        color: #EAEAEA;
+    }

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+.swiper-button-next,
+.swiper-button-prev {
+
+    display: none;
+}
+
+#img1 {
+    background-image: url(../../assets/home.png);
+    height: 90vh;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#img2 {
+    background-image: url(../../assets/img2.jpg);
+    height: 85vh;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headers {
+    font-family: "Jost", sans-serif;
+}
+
+.text-header {
+    font-size: 65px;
+    line-height: 55px;
+    margin-top: 300px;
+    color: white;
+}
+
+.btn_Content {
+    padding: 12px 40px;
+    color: white;
+}
+
+    

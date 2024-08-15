@@ -1,0 +1,9 @@
+.section_right{
+    background-image: url(../../assets/katta.svg);
+width: 400px;
+position: relative;
+height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
